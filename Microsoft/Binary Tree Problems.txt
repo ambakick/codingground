@@ -1,0 +1,7 @@
+1. LCA BST
+2. Check if Binary Tree is BST
+3. Sum of the cousin nodes
+4. Top view of Binary Tree
+5. Range of a BST
+6. Connecting the Leaf Nodes
+7. Check whether tree is full Binary Tree

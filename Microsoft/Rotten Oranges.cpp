@@ -4,9 +4,9 @@ using namespace std;
 
 
 int main(void){
-    int gopi;
-    cin>>gopi;
-    for (int i=0;i<gopi;i++)
+    int t;
+    cin>>t;
+    for (int i=0;i<t;i++)
     {
     int N,C;
     cin>>N>>C;
